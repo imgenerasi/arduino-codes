@@ -7,7 +7,7 @@ Each project has its own folder with code, documentation, and any necessary reso
 
 ### 1\. Safety Alarm v1
 
-**Folder:** `safety\_alarm\_v1`  
+**Folder:** `safety_alarm_v1`  
 An ultrasonic distance-based alert system that uses a buzzer and LED to warn when an object is closer than a set threshold.  
 Features:
 
@@ -16,16 +16,6 @@ Features:
 * LED flashing indicator
 
 [See project details](./safety_alarm_v1/README.md)
-
----
-
-## Repository Structure
-
-.
-├── safety\_alarm\_v1/ # First project
-│ ├── safety\_alarm\_v1.ino
-│ └── README.md
-└── README.md # This file
 
 ---
 
